@@ -2,7 +2,7 @@ package calculator.impl;
 
 import calculator.Calculator;
 
-public class CalculImpl implements Calculator{
+public class CalculImpl implements Calculator {
 
     @Override
     public int[][] multiplicat(int[][] a, int[][] b) {
