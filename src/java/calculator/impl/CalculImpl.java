@@ -6,7 +6,7 @@ public class CalculImpl implements Calculator {
 
     @Override
     public int[][] multiplicat(int[][] a, int[][] b) {
-        int[][] c = new int[2][2];
+        int[][] c = new int[4][4];
         for (int i = 0; i < c.length; i++) {
             for (int j = 0; j < c.length; j++) {
                 c[i][j] =  0 ;
